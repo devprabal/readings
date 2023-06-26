@@ -1,0 +1,70 @@
+site_name: devpogi readings
+site_author: devpogi
+# site_url: https://devprabal.github.io/tracks
+
+# repo_name: devprabal/readings
+# repo_url: https://github.com/devprabal/readings
+
+nav:
+  - Readings: index.md
+
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+  font:
+    text: Nunito
+    code: JetBrains Mono
+  
+  icon:
+    admonition:
+      abstract: material/chart-timeline-variant-shimmer
+  
+  features:
+    - navigation.top
+    - search.highlight
+    # - navigation.instant
+    # - navigation.expand
+    # - navigation.indexes
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - admonition
+  # - pymdownx.superfences
+  # - pymdownx.tasklist:
+  #     custom_checkbox: true
+  # - pymdownx.tabbed:
+  #     alternate_style: true
+  # - attr_list
+  # - md_in_html
+
+# plugins:
+  # - search
+  # - with-pdf

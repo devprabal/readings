@@ -1,0 +1,25 @@
+.md-typeset .admonition.quote,
+.md-typeset details.quote {
+    border-width: 1;
+    border-color: black;
+    background-color: #FFFFFC;
+}
+
+.md-typeset mark {
+    background-color: #CCDBCF;
+}
+
+.md-typeset a {
+    color: gray;
+    text-decoration: overline;
+}
+
+.md-typeset a:hover {
+    background-color: #F2E3DA;
+    color: black;
+}
+
+.md-nav__link:hover {
+    background-color: #CCDBCF;
+    color: black;
+}
