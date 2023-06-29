@@ -1,5 +1,6 @@
 site_name: devpogi readings
 site_author: devprabal
+site_url: https://devprabal.github.io/readings
 
 nav:
   - Readings: index.md
