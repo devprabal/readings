@@ -1,6 +1,7 @@
 site_name: devpogi readings
 site_author: devprabal
 site_url: https://devprabal.github.io/readings
+site_description: Articles/Videos that I read/watched and beautiful excerpts from them
 
 nav:
   - Readings: index.md
