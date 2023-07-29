@@ -135,3 +135,20 @@ She is an amazing orator. I can learn just so much just by looking at the way sh
     The initial half of the book is fast paced and binding. However, the second half starts to become a drag, sometimes repeting the thoughts of Panchali over and over. However, it is a very good take on an ancient tale and has numerous "to-ponder-over" lines that I have highlighted throughout the book.<br />The story is debatable, as often these tales are. It leaves me with questions that I don't want to seek answers for, yet.
     <br/><br/>
     <a href="https://www.goodreads.com/review/list/44642692-dev-prabal">View all my reviews</a>
+
+
+## Hundred Rabbits: data storage
+
+:material-link: [data storage](https://100r.co/site/off_the_grid.html#data_storage)
+
+???+ quote "excerpts"
+
+    [... cloud storage] This method doesn’t eliminate physical storage as data can’t be synced to the cloud without a connection.  
+    
+    [...] country politics have made it so that Google restricts access to some of its business services in certain countries or regions, such as China, Crimea, Cuba, Iran, Sudan, and Syria. Whatever data you have stored with Google Drive, ==if traveling to any of these countries will not be accessible.== As conflicts arise, more countries can end up on that list.
+
+I have taken for granted that an internet connection is a ubiquitous resource such that it is like water and none of my devices can function (for my work) without it. My data is continuously in sync across services / cloud / devices with never an "*offline-first*" approach. I should start to change this mindset and workflow. 
+
+Apart from this, the [100 rabbits website](https://100r.co/site/home.html) details MANY other ways to achieve sustainability while still being able to use computers for what they do best. They highlight workflows / softwares / hardwares / lifestyles / etc. that can be more resilient and less dependent. 
+
+I should visit this website regularly to keep on reading more articles / practices from them.  
