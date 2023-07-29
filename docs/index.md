@@ -112,3 +112,26 @@ She is an amazing orator. I can learn just so much just by looking at the way sh
     <br/><br/>
     <a href="https://www.goodreads.com/review/list/44642692-dev-prabal">View all my reviews</a>
 
+## Book: Call Me By Your Name
+
+:material-link: owned a paperback
+
+???+ quote "review"
+
+    <a href="https://www.goodreads.com/book/show/36336078-call-me-by-your-name" style="float: left; padding-right: 20px"><img border="0" alt="Call Me By Your Name (Call Me By Your Name, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519203520l/36336078._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/36336078-call-me-by-your-name">Call Me By Your Name</a> by <a href="https://www.goodreads.com/author/show/2922229.Andr_Aciman">André Aciman</a><br/>
+    My rating: <a href="https://www.goodreads.com/review/show/4324421804">5 of 5 stars</a><br /><br />
+    This book details on the insecurities and fears that I can relate to. It makes exact dialogues that shout out in my head. It does more than talking about people's personalities. It has statements that made me stop and think and reflect and stop again and think again, maybe even read out the line aloud in "my" variation of it. <br /><br />The overly elaborate description of the events and places is, most of the times, enjoyable, but also, sometimes, skip-able. It uses educated choice for words to pin point an emotion/description. But the vocabulary is often, for me, unfamiliar, so many a times, I can "feel" what the author is conveying, but not "feel it enough". There are descriptions where I feel that if only I knew the geography of the area first hand, I would be able to appreciate and be one with the contents the author has painted. It is like seeing the cake on display but never tasting it. I appreciate it but I can never appreciate it well enough.<br /><br />Yes, it does make my heart beat faster at moments and make me swell up at others. There are parts too which, although I have never experienced them, hit me up as nostalgia. Overall, when I finished the book, it felt like I finsihed a lifestory. And this story could be well relatable. I would like to re-read it again and highlight the sentences that I refrained from doing in the first reading. I want to devour those lines. And hope that someday, I might be able to cherish them first-handed.
+    <br/><br/>
+    <a href="https://www.goodreads.com/review/list/44642692-dev-prabal">View all my reviews</a>
+
+## Book: The Palace of Illusions
+
+:material-link: owned a paperback
+
+???+ quote "review"
+
+    <a href="https://www.goodreads.com/book/show/1774836.The_Palace_of_Illusions" style="float: left; padding-right: 20px"><img border="0" alt="The Palace of Illusions" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679444666l/1774836._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/1774836.The_Palace_of_Illusions">The Palace of Illusions</a> by <a href="https://www.goodreads.com/author/show/51589.Chitra_Banerjee_Divakaruni">Chitra Banerjee Divakaruni</a><br/>
+    My rating: <a href="https://www.goodreads.com/review/show/5457649563">4 of 5 stars</a><br /><br />
+    The initial half of the book is fast paced and binding. However, the second half starts to become a drag, sometimes repeting the thoughts of Panchali over and over. However, it is a very good take on an ancient tale and has numerous "to-ponder-over" lines that I have highlighted throughout the book.<br />The story is debatable, as often these tales are. It leaves me with questions that I don't want to seek answers for, yet.
+    <br/><br/>
+    <a href="https://www.goodreads.com/review/list/44642692-dev-prabal">View all my reviews</a>
