@@ -206,4 +206,24 @@ I should visit this website regularly to keep on reading more articles / practic
     <br/><br/>
     <a href="https://www.goodreads.com/review/list/44642692-dev-prabal">View all my reviews</a>
 
+## A Brief History & Ethos of the Digital Garden
+
+:material-link: [Maggie Appleton's essay on digital gardening](https://maggieappleton.com/garden-history)
+
+???+ quote "Maggie Appleton"
+
+    [...] these sites act more like free form, ==work-in-progress wikis==. A garden is a collection of ==evolving ideas== [...] ==linked through contextual associations==. [...] ==half-finished== thoughts that ==will grow== and evolve over time. 
+
+    Language [...] we expand it when our current vocabulary fails to capture what we're observing, or have a particular desire for how we'd like the future to unfold. Naming is a political act as much as a poetic one.
+
+    The conversational feed design of [...][streams] is fleeting – they're only concerned with self-assertive immediate thoughts that rush by us in a few moments. [...]  only surface the Zeitgeisty ideas of the last 24 hours. [...] not designed to accumulate knowledge, connect disparate information, or mature over time. 
+
+    Many of the people who jumped on the early digital gardening bandwagon were part of communities like [...] Followers of Tiago Forte's Building a Second Brain [...] People rallying around the Learn in Public ethos.
+
+    Any kind of novel experimentation with the web requires knowing a ==non-trivial== amount of HTML, CSS, and JS. [...] Developers took to the idea because they already had the technical ability [...]
+
+    The overwhelming lesson of the Web 2.0 social media age is that dumping millions of people together into decontextualised social spaces is a shit show. Devoid of any established social norms and abstracted from our specific cultural identities [...] We know nothing of their lives, backgrounds, or belief systems, and have to assume the worst. [...][gardens] They're the higher-fidelity version, complete with quirks, contradictions, and complexity.
+
+I have to recommend this eassy. Every line in this is a line which is either a well-researched fact, a meticulous process, or a food for thought. The illustrations therein make it extremely enagaging (and the selection of those calm color tone of the entire garden. Ah! beautiful).
+
 
