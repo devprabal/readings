@@ -226,4 +226,27 @@ I should visit this website regularly to keep on reading more articles / practic
 
 I have to recommend this eassy. Every line in this is a line which is either a well-researched fact, a meticulous process, or a food for thought. The illustrations therein make it extremely enagaging (and the selection of those calm color tone of the entire garden. Ah! beautiful).
 
+## The Expanding Dark Forest and Generative AI
+
+:material-link: [Maggie Appleton's essay on gen ai and LLMs](https://maggieappleton.com/ai-dark-forest)
+
+???+ quote "Maggie Appleton"
+
+    Proving you're a human on a web flooded with generative AI content
+
+    These new models are poised to flood the web with generic, generated content.
+
+    We've already become skilled at sifting through unhelpful piles of “optimised content” designed to gather clicks and advertising impressions.
+
+    How would you prove you're not a language model generating predictive text? 
+
+    they (LLMs) do not have access to the same shared reality we do. They do not have embodied experiences, and ==cannot sense the world as we can sense it; they don't have vision, sound, taste, or touch==. They cannot feel emotion or tightly hold a coherent set of values. They are not part of cultures, communities, or histories. [...] Language models ==can decently mimic== this style of writing but most don't without extensive prompt engineering. They stick to generics. They leave out details. 
+
+    Language models regurgitate text from across the web, which some humans read and recycle into "original creations," which then become fodder to train other language models, and around and around we go recycling generic ideas and arguments and tropes and ways of thinking. Hard exiting out of this cycle requires ==coming up with unquestionably original thoughts and theories==. 
+
+    What we have left to play with is la parole. No language model will be able to keep up with the pace of weird internet ==lingo and memes==. I expect we'll lean into this. Using neologisms, jargon, euphemistic emoji, unusual phrases, ingroup dialects, and memes-of-the-moment will help signal your humanity.
+
+    [...] offline-first future. We might see increased fetishisation of ==anti-screen culture==
+
+She explores some possible ways to distinguish a bot from human when talking on the web filled with gen ai content.
 
