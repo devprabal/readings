@@ -250,3 +250,27 @@ I have to recommend this eassy. Every line in this is a line which is either a w
 
 She explores some possible ways to distinguish a bot from human when talking on the web filled with gen ai content.
 
+## Interview: He conquers who conquers himself |  Adam Peaty
+
+:material-link: Men's Health Magazine July 2024 edition
+
+???+ quote "Adam Peaty to MH's interviewer Gordon Smart"
+
+    'The answers can't be found in a nightclub, or some of the stuff that I'd been doing. It had to be found in true accountability, tough and deep conversations with people around me. It requires so much maturity to ==face yourself== in the mirror ==and admit that your behaviour is not acceptable.'==
+
+    'I was within a hair of giving it all up, he says. What was going back for? Pride? It took a while to find the answer. But wanted to teach [my son] George and any other children I have in future that ==you don't give up when things get hard== or the world feels like it's against you. ==You give up when the time is right.== I can take losses, but I couldn't take regret. Regret whould eat any man inside out.
+
+    The pool can be a very lonely place, he says. 'You're doing 12,000m a day, plus gym, plus nutrition, plus everything else in your life. I was a father, a partner, a business manager - trying to manage my own future at the same time.'
+
+    he repeats a mantra about being =='better today than you were yesterday'==. That's a Herculean task for a man swimming sub-58s. So how exactly does he go about chasing those marginal gains? 'I've had to ==find different ways to attack the same thing==,' he explains. 'It's not about faster or better, it's actually more peaceful than that. [...] I used to be an emotional swimmer with a process-driven way of performing. Now, I'm ==process driven==, ==but== I can ==add emotion to the structure==. 'It changes when you get older as an athlete. I think I've mastered ==the art of staying present==. [...] Of course you're not going to be happy all the time, especially when your heart rate is at 200bpm and you're bleeding in the gym. But you can be at peace in those moments.'
+
+    'My standards are so high because ==I take it to a place not many people have gone==. That mentality has got me medals, but it has cost me,'
+
+    'I've got 34 international gold medals, 50-plus overall. The rest, I've given away. I'm not fussed by the material. ==I can relive any race because I remember them==. The memories are with me forever.' '"Medals are the coldest thing you wear because in pursuit of greatness, you'll destroy relationships." People will tell you there's a choice, but there is no choice; it's win or lose. I've got to be willing to go all in for a victory. Most of the time ==you have to be selfish to achieve the goals== I'm striving for.'
+
+    Of course, I love material possessions, but I don't let them define who I am. Just because you have a nice watch, it doesn't make you a nice person. 'I want to be remembered as someone who was relentless in the pursuit of human excellence. ==Legacy isn't something I can decide for myself. The world decides my legacy==, it depends on how good I've been in the pool.'
+
+    I've always relied on swimming to teach me valuable lessons, to humble me.
+
+    I've got so much stamina and endurance in my body and that doesn't go away overnight. 'I don't like quiet, I like the chaos. I like having a busy brain. I've done this 1,000 times, ==I just need to flick a switch to engage that experience.=='
+
