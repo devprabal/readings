@@ -116,7 +116,7 @@ She is an amazing orator. I can learn just so much just by looking at the way sh
 
 :material-link: owned a paperback
 
-???+ quote "review"
+??? quote "review"
 
     <a href="https://www.goodreads.com/book/show/36336078-call-me-by-your-name" style="float: left; padding-right: 20px"><img border="0" alt="Call Me By Your Name (Call Me By Your Name, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519203520l/36336078._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/36336078-call-me-by-your-name">Call Me By Your Name</a> by <a href="https://www.goodreads.com/author/show/2922229.Andr_Aciman">André Aciman</a><br/>
     My rating: <a href="https://www.goodreads.com/review/show/4324421804">5 of 5 stars</a><br /><br />
@@ -158,7 +158,7 @@ I should visit this website regularly to keep on reading more articles / practic
 
 :material-link: owned a paperback
 
-???+ quote "review" 
+??? quote "review" 
 
     <a href="https://www.goodreads.com/book/show/101509.Nectar_in_a_Sieve" style="float: left; padding-right: 20px"><img border="0" alt="Nectar in a Sieve" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348811536l/101509._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/101509.Nectar_in_a_Sieve">Nectar in a Sieve</a> by <a href="https://www.goodreads.com/author/show/58634.Kamala_Markandaya">Kamala Markandaya</a><br/>
     <br /><br />
@@ -184,7 +184,7 @@ I should visit this website regularly to keep on reading more articles / practic
 
 :material-link: eBook on [google playbooks](https://play.google.com/books)
 
-???+ quote "review"
+??? quote "review"
 
     <a href="https://www.goodreads.com/book/show/56179360-light-from-uncommon-stars" style="float: left; padding-right: 20px"><img border="0" alt="Light from Uncommon Stars" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1626721795l/56179360._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/56179360-light-from-uncommon-stars">Light from Uncommon Stars</a> by <a href="https://www.goodreads.com/author/show/5989943.Ryka_Aoki">Ryka Aoki</a><br/>
     My rating: <a href="https://www.goodreads.com/review/show/5806956120">2 of 5 stars</a><br /><br />
@@ -210,7 +210,7 @@ I should visit this website regularly to keep on reading more articles / practic
 
 :material-link: [Maggie Appleton's essay on digital gardening](https://maggieappleton.com/garden-history)
 
-???+ quote "Maggie Appleton"
+??? quote "Maggie Appleton"
 
     [...] these sites act more like free form, ==work-in-progress wikis==. A garden is a collection of ==evolving ideas== [...] ==linked through contextual associations==. [...] ==half-finished== thoughts that ==will grow== and evolve over time. 
 
@@ -230,7 +230,7 @@ I have to recommend this eassy. Every line in this is a line which is either a w
 
 :material-link: [Maggie Appleton's essay on gen ai and LLMs](https://maggieappleton.com/ai-dark-forest)
 
-???+ quote "Maggie Appleton"
+??? quote "Maggie Appleton"
 
     Proving you're a human on a web flooded with generative AI content
 
@@ -254,7 +254,7 @@ She explores some possible ways to distinguish a bot from human when talking on 
 
 :material-link: Men's Health Magazine July 2024 edition
 
-???+ quote "Adam Peaty to MH's interviewer Gordon Smart"
+??? quote "Adam Peaty to MH's interviewer Gordon Smart"
 
     'The answers can't be found in a nightclub, or some of the stuff that I'd been doing. It had to be found in true accountability, tough and deep conversations with people around me. It requires so much maturity to ==face yourself== in the mirror ==and admit that your behaviour is not acceptable.'==
 
