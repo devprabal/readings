@@ -274,3 +274,22 @@ She explores some possible ways to distinguish a bot from human when talking on 
 
     I've got so much stamina and endurance in my body and that doesn't go away overnight. 'I don't like quiet, I like the chaos. I like having a busy brain. I've done this 1,000 times, ==I just need to flick a switch to engage that experience.=='
 
+## Software is Changing (again) | Andrej Karpathy
+
+:material-link: [Y Combinator's talk on youtube](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
+
+???+ quote "Andrej Karpathy"
+
+    ==Software 3.0 (prompts, agents) is eating software 2.0== (neural nets weights) which is eating software 1.0 (code).  
+
+    It will take time to migrate from software 2.0 to 3.0, like it still takes time to migrate from 1.0 to 2.0.  
+
+    Software 3.0 (LLM) is like an electric grid, a fabrication warehouse, an OS, and also ==a personal spirit==. It is best to keep it leashed, to avoid chaos. Upgrade in chunks.  
+
+    We might be in a similar age for software 3.0 as of the ENIAC of computers (software 1.0), where computing is done on the clouds and access to it is in a time shared (rate limited) way.    
+
+    Building for agents (like making your docs website parsable for crawlers / LLMs) is how we can achieve ==partial autonomy== using LLMs instead of an inefficient vision of full autonomy.  
+    
+
+There are AI articles and videos and then there is a *once-in-a-blue-moon-type* rare finds like this. It is extremely engaging to listen him lay out a history of software and software development with striking analogies that would never have been apparent (though they are right in our faces!) unless he had put them on the slides!
+
