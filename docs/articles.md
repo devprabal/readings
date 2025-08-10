@@ -2,7 +2,7 @@
 
 ## Mails between Tanenbaum and Linus
 
-:material-link: [Linus_vs_Tanenbaum](https://choices.cs.illinois.edu/cache/Linus_vs_Tanenbaum.html) 
+🔗 [Linus_vs_Tanenbaum](https://choices.cs.illinois.edu/cache/Linus_vs_Tanenbaum.html) 
 
 Looks like Linux has dominated although the professor's ideas were good and futuristic, however, efforts weren't put in them. And overtime, linux is becoming more and more acceptable. Tanenbaum says about "free" software as in "source code", not as in "distribution cost". This is good of him. He says that majority of people are NOT on the internet (in those days, which is correct), so free source code is not reachable and distributers win. However, look how things have changed! Linus says that he would not have started the project if the GNU Hurd was ready. Look, it is still not ready. Oh and I read about plan 9. Another revolutionary OS? Tanenbaum says that there should be one authority over a software. Well, that's not the case today. There are many open source projects which exist because of "collaboration" and not because of one-single person controlling over it. Well, yes, in those days, collaboration would have been tough (as Linus says that too). But Tanenbaum being a "professor" in CS, could have speculated drastic changes in internet and technology making things accessible to vast audience. Then would he have continued adding more features to MINIX? It is clear that who won and who lost. However, the concept of microkernel is pretty good too if there would have been a good-enough-widely-used kernel like linux for it.
 
@@ -12,7 +12,7 @@ Looks like Linux has dominated although the professor's ideas were good and futu
 
 ## Hyperbolic discounting: Why you make terrible life choices
 
-:material-link: [Hyperbolic discounting: Why you make terrible life choices](https://medium.com/behavior-design/hyperbolic-discounting-aefb7acec46e)
+🔗 [Hyperbolic discounting: Why you make terrible life choices](https://medium.com/behavior-design/hyperbolic-discounting-aefb7acec46e)
 
 ???+ quote "Lakshmi Mani"
 
@@ -32,7 +32,7 @@ Looks like Linux has dominated although the professor's ideas were good and futu
 
 ## Retrofitting Temporal Memory Safety on C++
 
-:material-link: [Retrofitting Temporal Memory Safety on C++](https://security.googleblog.com/2022/05/retrofitting-temporal-memory-safety-on-c.html?m=1)
+🔗 [Retrofitting Temporal Memory Safety on C++](https://security.googleblog.com/2022/05/retrofitting-temporal-memory-safety-on-c.html?m=1)
 
 ???+ quote "excerpts"
 
@@ -48,7 +48,7 @@ I also watched this [CppCon 2018 video](https://www.youtube.com/watch?v=lLEcbXid
 
 ## Hundred Rabbits: data storage
 
-:material-link: [data storage](https://100r.co/site/off_the_grid.html#data_storage)
+🔗 [data storage](https://100r.co/site/off_the_grid.html#data_storage)
 
 ???+ quote "excerpts"
 
@@ -64,7 +64,7 @@ I should visit this website regularly to keep on reading more articles / practic
 
 ## A Brief History & Ethos of the Digital Garden
 
-:material-link: [Maggie Appleton's essay on digital gardening](https://maggieappleton.com/garden-history)
+🔗 [Maggie Appleton's essay on digital gardening](https://maggieappleton.com/garden-history)
 
 ??? quote "Maggie Appleton"
 
@@ -84,7 +84,7 @@ I have to recommend this eassy. Every line in this is a line which is either a w
 
 ## The Expanding Dark Forest and Generative AI
 
-:material-link: [Maggie Appleton's essay on gen ai and LLMs](https://maggieappleton.com/ai-dark-forest)
+🔗 [Maggie Appleton's essay on gen ai and LLMs](https://maggieappleton.com/ai-dark-forest)
 
 ??? quote "Maggie Appleton"
 
@@ -108,7 +108,7 @@ She explores some possible ways to distinguish a bot from human when talking on 
 
 ## Interview: He conquers who conquers himself |  Adam Peaty
 
-:material-link: Men's Health Magazine July 2024 edition
+🔗 Men's Health Magazine July 2024 edition
 
 ??? quote "Adam Peaty to MH's interviewer Gordon Smart"
 

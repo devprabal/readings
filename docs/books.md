@@ -2,7 +2,7 @@
 
 ## Project Hail Mary
 
-:material-link: eBook on [google playbooks](https://play.google.com/books)
+🔗 eBook on [google playbooks](https://play.google.com/books)
 
 ???+ quote "review"
 
@@ -14,13 +14,13 @@
 
 ## Epilogue for Hail Mary (unofficial)
 
-:material-link: [pdf on internet](https://markctredecim.files.wordpress.com/2022/04/essay-epilogue-for-project-hail-mary-d-i-e.pdf)  
+🔗 [pdf on internet](https://markctredecim.files.wordpress.com/2022/04/essay-epilogue-for-project-hail-mary-d-i-e.pdf)  
 
 The worst ending one could imagine. Such a stupid essay. It could have been anything trivial, adventurous, thrilling, dull, boring, but the author chose to include God for no sensible reason whatsoever. Did the author really read the book? Did he get the theme of it? You could have presented God in some other way, but you chose complete nonsense. Please refrain from reading this mundane shit.
 
 ## Sea Of Tranquility
 
-:material-link: eBook on [google playbooks](https://play.google.com/books)
+🔗 eBook on [google playbooks](https://play.google.com/books)
 
 ???+ quote "review"
 
@@ -32,7 +32,7 @@ The worst ending one could imagine. Such a stupid essay. It could have been anyt
 
 ## Call Me By Your Name
 
-:material-link: owned a paperback
+🔗 owned a paperback
 
 ??? quote "review"
 
@@ -44,7 +44,7 @@ The worst ending one could imagine. Such a stupid essay. It could have been anyt
 
 ## The Palace of Illusions
 
-:material-link: owned a paperback
+🔗 owned a paperback
 
 ???+ quote "review"
 
@@ -56,7 +56,7 @@ The worst ending one could imagine. Such a stupid essay. It could have been anyt
 
 ## Nectar in a Sieve
 
-:material-link: owned a paperback
+🔗 owned a paperback
 
 ??? quote "review" 
 
@@ -82,7 +82,7 @@ The worst ending one could imagine. Such a stupid essay. It could have been anyt
 
 ## Light from Uncommon Stars
 
-:material-link: eBook on [google playbooks](https://play.google.com/books)
+🔗 eBook on [google playbooks](https://play.google.com/books)
 
 ??? quote "review"
 

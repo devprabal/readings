@@ -1,8 +1,8 @@
 # Thoughts and exercpts from talks and videos  
 
-## Lindie Botes - Holistic language learning through cultural immersion and culture shock (talk)
+## Lindie Botes - Holistic language learning through cultural immersion and culture shock
 
-:material-link: [Polyglot Conference](https://www.youtube.com/watch?v=U7o9f13QxsE)
+🔗 [Polyglot Conference](https://www.youtube.com/watch?v=U7o9f13QxsE)
 
 She is an amazing orator. I can learn just so much just by looking at the way she speaks and how she brings her experiences and linguistic diversities during the talk. There was one instance where she suddenly changed her accent (on purpose because she was demonstrating it) and, man, she nailed it!
 
@@ -16,9 +16,9 @@ She is an amazing orator. I can learn just so much just by looking at the way sh
 
     At one instance, near the end of the talk, she says about being able to speak and adopt to the culture the particular language brings with itself, but even so, the native people will always see her as a foreigner.
 
-## Why storytelling matters | Garr Reynolds | TEDxKyoto (talk)
+## Why storytelling matters | Garr Reynolds | TEDxKyoto
 
-:material-link: [TEDx Talks](https://www.youtube.com/watch?v=YbV3b-l1sZs)
+🔗 [TEDx Talks](https://www.youtube.com/watch?v=YbV3b-l1sZs)
 
 ???+ quote "excerpts"
 
@@ -32,7 +32,7 @@ She is an amazing orator. I can learn just so much just by looking at the way sh
 
 ## Software is Changing (again) | Andrej Karpathy
 
-:material-link: [Y Combinator's talk on youtube](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
+🔗 [Y Combinator's talk on youtube](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 
 ???+ quote "Andrej Karpathy"
 
