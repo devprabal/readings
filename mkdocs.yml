@@ -4,10 +4,12 @@ site_url: https://devprabal.github.io/readings
 site_description: devpogi's thoughts on books, articles, talks and media  
 
 nav:
-  - about: index.md
   - articles: articles.md
   - books: books.md
   - videos: videos.md
+
+not_in_nav: |
+  /index.md
 
 # theme:
 #   name: material
@@ -70,6 +72,13 @@ nav:
 #     navigation_depth: 2
 #     preview: false ## disables Next and Prev in footer
 
+theme:
+  name: mkdocs
+  color_mode: auto
+  user_color_mode_toggle: true ## idk why it doesn't work
+  nav_style: dark
+  shortcuts:
+    search: 83   # s
 
 extra_css:
   - stylesheets/extra.css
