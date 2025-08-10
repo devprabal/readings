@@ -1,39 +1,75 @@
 site_name: devpogi readings
-site_author: devprabal
+site_author: devpogi
 site_url: https://devprabal.github.io/readings
-site_description: Articles/Videos that I read/watched and beautiful excerpts from them
+site_description: devpogi's thoughts on books, articles, talks and media  
 
 nav:
-  - Readings: index.md
+  - about: index.md
+  - articles: articles.md
+  - books: books.md
+  - videos: videos.md
 
-theme:
-  name: material
-  palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: white
-      accent: default
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      accent: default
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
-  font:
-    text: Nunito
-    code: JetBrains Mono
-  icon:
-    logo: material/book
-    admonition:
-      abstract: material/chart-timeline-variant-shimmer
-  features:
-    - navigation.top
-    - search.highlight
-    - navigation.instant
+# theme:
+#   name: material
+#   palette:
+#     - media: "(prefers-color-scheme: light)"
+#       scheme: default
+#       primary: white
+#       accent: default
+#       toggle:
+#         icon: material/toggle-switch-off-outline
+#         name: Switch to dark mode
+#     - media: "(prefers-color-scheme: dark)"
+#       scheme: slate
+#       primary: black
+#       accent: default
+#       toggle:
+#         icon: material/toggle-switch
+#         name: Switch to light mode
+#   font:
+#     text: Nunito
+#     code: JetBrains Mono
+#   icon:
+#     logo: material/book
+#     admonition:
+#       abstract: material/chart-timeline-variant-shimmer
+#   features:
+#     - navigation.top
+#     - search.highlight
+#     - navigation.instant
+
+## [swan theme](https://github.com/swan-cern/mkdocs-swan)
+# theme:
+#   name: 'swan'
+
+### [cluster theme](https://pythonhosted.org/mkdocs-cluster/)
+# theme:
+#   name: cluster
+
+# ### [walt theme](https://github.com/codesue/walt)
+# theme:
+#   name: walt
+
+# ### [alabaster theme](https://github.com/notpushkin/mkdocs-alabaster)
+# theme:
+#   name: alabaster
+
+# theme: 
+#   name: readthedocs
+
+# ### [simple-blog theme](https://github.com/FernandoCelmer/mkdocs-simple-blog)
+# theme:
+#   name: simple-blog
+#   title_style: overline
+#   site_name_style: bold
+#   theme_style: light #dark
+#   components:
+#     site_name: true
+#     footer: false
+#     sidebar: true
+#     navigation_depth: 2
+#     preview: false ## disables Next and Prev in footer
+
 
 extra_css:
   - stylesheets/extra.css
@@ -50,4 +86,10 @@ markdown_extensions:
   - admonition
 
 plugins:
-  - social
+  - search
+  # - social ## needs theme: material-for-mkdocs
+
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
