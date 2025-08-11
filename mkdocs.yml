@@ -80,8 +80,17 @@ theme:
   shortcuts:
     search: 83   # s
 
-extra_css:
-  - stylesheets/extra.css
+# theme:
+#   name: shadcn
+#   show_title: true
+#   icon: ci:bookmark ## https://icon-sets.iconify.design/ci/?icon-filter=book
+
+
+# theme:
+#   name: terminal
+
+# extra_css:
+#   - stylesheets/extra.css
 
 markdown_extensions:
   - pymdownx.emoji:
