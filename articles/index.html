@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="auto">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <meta name="author" content="devpogi">
+        <link rel="canonical" href="https://devprabal.github.io/readings/articles/">
+        <link rel="shortcut icon" href="../img/favicon.ico">
+        <title>articles - devpogi readings</title>
+        <link href="../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../css/brands.min.css" rel="stylesheet">
+        <link href="../css/solid.min.css" rel="stylesheet">
+        <link href="../css/v4-font-face.min.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" disabled>
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand" href="..">devpogi readings</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href="./" class="nav-link active" aria-current="page">articles</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="../books/" class="nav-link">books</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="../videos/" class="nav-link">videos</a>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" class="nav-link disabled">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="../books/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                            <li class="nav-item dropdown">
+                              <button id="theme-menu" aria-expanded="false" data-bs-toggle="dropdown" data-bs-display="static" aria-label="Toggle theme" class="nav-link dropdown-toggle">
+                                <i class="fa-solid fa-circle-half-stroke fa-fw"></i>
+                                <span class="d-lg-none ms-2">Toggle theme</span>
+                              </button>
+                              <ul class="dropdown-menu dropdown-menu-end">
+                                <li>
+                                  <button class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+                                    <i class="fa-solid fa-sun fa-fw"></i>
+                                    <span class="ms-2">Light</span>
+                                    <i class="fa-solid fa-check ms-auto d-none"></i>
+                                  </button>
+                                </li>
+                                <li>
+                                  <button class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false">
+                                    <i class="fa-solid fa-moon fa-fw"></i>
+                                    <span class="ms-2">Dark</span>
+                                    <i class="fa-solid fa-check ms-auto d-none"></i>
+                                  </button>
+                                </li>
+                                <li>
+                                  <button class="dropdown-item d-flex align-items-center" data-bs-theme-value="auto" aria-pressed="true">
+                                    <i class="fa-solid fa-circle-half-stroke fa-fw"></i>
+                                    <span class="ms-2">Auto</span>
+                                    <i class="fa-solid fa-check ms-auto"></i>
+                                  </button>
+                                </li>
+                              </ul>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <script src="../js/darkmode.js"></script>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#thoughts-and-exercpts-from-articles-magazine-entries-blogposts" class="nav-link">Thoughts and exercpts from articles, magazine entries, blogposts</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#mails-between-tanenbaum-and-linus" class="nav-link">Mails between Tanenbaum and Linus</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#hyperbolic-discounting-why-you-make-terrible-life-choices" class="nav-link">Hyperbolic discounting: Why you make terrible life choices</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#retrofitting-temporal-memory-safety-on-c" class="nav-link">Retrofitting Temporal Memory Safety on C++</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#hundred-rabbits-data-storage" class="nav-link">Hundred Rabbits: data storage</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#a-brief-history-ethos-of-the-digital-garden" class="nav-link">A Brief History &amp; Ethos of the Digital Garden</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#the-expanding-dark-forest-and-generative-ai" class="nav-link">The Expanding Dark Forest and Generative AI</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#interview-he-conquers-who-conquers-himself-adam-peaty" class="nav-link">Interview: He conquers who conquers himself | Adam Peaty</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#treat-your-to-read-pile-like-a-river-not-a-bucket" class="nav-link">Treat your to-read pile like a river, not a bucket</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="thoughts-and-exercpts-from-articles-magazine-entries-blogposts">Thoughts and exercpts from articles, magazine entries, blogposts</h1>
+<h2 id="mails-between-tanenbaum-and-linus">Mails between Tanenbaum and Linus</h2>
+<p>🔗 <a href="https://choices.cs.illinois.edu/cache/Linus_vs_Tanenbaum.html">Linus_vs_Tanenbaum</a> </p>
+<p>Looks like Linux has dominated although the professor's ideas were good and futuristic, however, efforts weren't put in them. And overtime, linux is becoming more and more acceptable. Tanenbaum says about "free" software as in "source code", not as in "distribution cost". This is good of him. He says that majority of people are NOT on the internet (in those days, which is correct), so free source code is not reachable and distributers win. However, look how things have changed! Linus says that he would not have started the project if the GNU Hurd was ready. Look, it is still not ready. Oh and I read about plan 9. Another revolutionary OS? Tanenbaum says that there should be one authority over a software. Well, that's not the case today. There are many open source projects which exist because of "collaboration" and not because of one-single person controlling over it. Well, yes, in those days, collaboration would have been tough (as Linus says that too). But Tanenbaum being a "professor" in CS, could have speculated drastic changes in internet and technology making things accessible to vast audience. Then would he have continued adding more features to MINIX? It is clear that who won and who lost. However, the concept of microkernel is pretty good too if there would have been a good-enough-widely-used kernel like linux for it.</p>
+<details class="quote" open="open">
+<summary>Linus</summary>
+<p>If you write programs for linux today, you shouldn't have too many surprises when you just recompile them for Hurd in the 21st century.</p>
+</details>
+<h2 id="hyperbolic-discounting-why-you-make-terrible-life-choices">Hyperbolic discounting: Why you make terrible life choices</h2>
+<p>🔗 <a href="https://medium.com/behavior-design/hyperbolic-discounting-aefb7acec46e">Hyperbolic discounting: Why you make terrible life choices</a></p>
+<details class="quote" open="open">
+<summary>Lakshmi Mani</summary>
+<p>people choose smaller, immediate rewards rather than larger, later rewards — and this occurs more when the delay is closer to the present than the future.</p>
+<p>When you procrastinate, you opt for the instant gratification of enjoying yourself rather than the <mark>future reward of accomplishing the things you set out to do</mark>.</p>
+<p>Our brains were never wired to be truly rational, because there is way too much information in the world for us to process. So we evolved to selectively process information to make decisions quickly.</p>
+<p>A caveman did not have to contend with such complex choices as we do today. Caveman Lakshmi never had to choose between eating a pig today vs investing it in a pig 401K that yields 4X returns in the future. Under harsher living conditions, we didn’t know if we would survive till the end of the day — so we evolved to choose the immediate things that helped us survive.</p>
+<p>It’s easy to assume that future you is boundless with energy, drive and motivation.</p>
+<p><mark>Precommitment is a way to to lock future you into decisions, now. Make it hard for your future self to back out.</mark></p>
+<p>By <mark>breaking down big goals into smaller tasks</mark>, your reward comes after the completion of each chunk. </p>
+</details>
+<h2 id="retrofitting-temporal-memory-safety-on-c">Retrofitting Temporal Memory Safety on C++</h2>
+<p>🔗 <a href="https://security.googleblog.com/2022/05/retrofitting-temporal-memory-safety-on-c.html?m=1">Retrofitting Temporal Memory Safety on C++</a></p>
+<details class="quote" open="open">
+<summary>excerpts</summary>
+<p>Temporal memory safety refers to the problem of guaranteeing that memory is always accessed with the most up to date information of its structure, its type.</p>
+<p>Chrome [...] the <mark>majority of high-severity security bugs are UAF (use after free) issues</mark></p>
+<p>The basic idea is to put explicitly freed memory into quarantine and only make it available when a certain safety condition is reached.</p>
+<p>MTE (Memory Tagging Extension) [...] Every 16 bytes of memory are assigned a 4-bit tag. Pointers are also assigned a 4-bit tag. The allocator is responsible for returning a pointer with the same tag as the allocated memory.</p>
+</details>
+<p>I also watched this <a href="https://www.youtube.com/watch?v=lLEcbXidK2o&amp;list=FL4fz1A6Cm4hVqscjEN9UQuw&amp;index=2">CppCon 2018 video</a> on MTE.</p>
+<h2 id="hundred-rabbits-data-storage">Hundred Rabbits: data storage</h2>
+<p>🔗 <a href="https://100r.co/site/off_the_grid.html#data_storage">data storage</a></p>
+<details class="quote" open="open">
+<summary>excerpts</summary>
+<p>[... cloud storage] This method doesn’t eliminate physical storage as data can’t be synced to the cloud without a connection.  </p>
+<p>[...] country politics have made it so that Google restricts access to some of its business services in certain countries or regions, such as China, Crimea, Cuba, Iran, Sudan, and Syria. Whatever data you have stored with Google Drive, <mark>if traveling to any of these countries will not be accessible.</mark> As conflicts arise, more countries can end up on that list.</p>
+</details>
+<p>I have taken for granted that an internet connection is a ubiquitous resource such that it is like water and none of my devices can function (for my work) without it. My data is continuously in sync across services / cloud / devices with never an "<em>offline-first</em>" approach. I should start to change this mindset and workflow. </p>
+<p>Apart from this, the <a href="https://100r.co/site/home.html">100 rabbits website</a> details MANY other ways to achieve sustainability while still being able to use computers for what they do best. They highlight workflows / softwares / hardwares / lifestyles / etc. that can be more resilient and less dependent. </p>
+<p>I should visit this website regularly to keep on reading more articles / practices from them.  </p>
+<h2 id="a-brief-history-ethos-of-the-digital-garden">A Brief History &amp; Ethos of the Digital Garden</h2>
+<p>🔗 <a href="https://maggieappleton.com/garden-history">Maggie Appleton's essay on digital gardening</a></p>
+<details class="quote">
+<summary>Maggie Appleton</summary>
+<p>[...] these sites act more like free form, <mark>work-in-progress wikis</mark>. A garden is a collection of <mark>evolving ideas</mark> [...] <mark>linked through contextual associations</mark>. [...] <mark>half-finished</mark> thoughts that <mark>will grow</mark> and evolve over time. </p>
+<p>Language [...] we expand it when our current vocabulary fails to capture what we're observing, or have a particular desire for how we'd like the future to unfold. Naming is a political act as much as a poetic one.</p>
+<p>The conversational feed design of [...][streams] is fleeting – they're only concerned with self-assertive immediate thoughts that rush by us in a few moments. [...]  only surface the Zeitgeisty ideas of the last 24 hours. [...] not designed to accumulate knowledge, connect disparate information, or mature over time. </p>
+<p>Many of the people who jumped on the early digital gardening bandwagon were part of communities like [...] Followers of Tiago Forte's Building a Second Brain [...] People rallying around the Learn in Public ethos.</p>
+<p>Any kind of novel experimentation with the web requires knowing a <mark>non-trivial</mark> amount of HTML, CSS, and JS. [...] Developers took to the idea because they already had the technical ability [...]</p>
+<p>The overwhelming lesson of the Web 2.0 social media age is that dumping millions of people together into decontextualised social spaces is a shit show. Devoid of any established social norms and abstracted from our specific cultural identities [...] We know nothing of their lives, backgrounds, or belief systems, and have to assume the worst. [...][gardens] They're the higher-fidelity version, complete with quirks, contradictions, and complexity.</p>
+</details>
+<p>I have to recommend this eassy. Every line in this is a line which is either a well-researched fact, a meticulous process, or a food for thought. The illustrations therein make it extremely enagaging (and the selection of those calm color tone of the entire garden. Ah! beautiful).</p>
+<h2 id="the-expanding-dark-forest-and-generative-ai">The Expanding Dark Forest and Generative AI</h2>
+<p>🔗 <a href="https://maggieappleton.com/ai-dark-forest">Maggie Appleton's essay on gen ai and LLMs</a></p>
+<details class="quote">
+<summary>Maggie Appleton</summary>
+<p>Proving you're a human on a web flooded with generative AI content</p>
+<p>These new models are poised to flood the web with generic, generated content.</p>
+<p>We've already become skilled at sifting through unhelpful piles of “optimised content” designed to gather clicks and advertising impressions.</p>
+<p>How would you prove you're not a language model generating predictive text? </p>
+<p>they (LLMs) do not have access to the same shared reality we do. They do not have embodied experiences, and <mark>cannot sense the world as we can sense it; they don't have vision, sound, taste, or touch</mark>. They cannot feel emotion or tightly hold a coherent set of values. They are not part of cultures, communities, or histories. [...] Language models <mark>can decently mimic</mark> this style of writing but most don't without extensive prompt engineering. They stick to generics. They leave out details. </p>
+<p>Language models regurgitate text from across the web, which some humans read and recycle into "original creations," which then become fodder to train other language models, and around and around we go recycling generic ideas and arguments and tropes and ways of thinking. Hard exiting out of this cycle requires <mark>coming up with unquestionably original thoughts and theories</mark>. </p>
+<p>What we have left to play with is la parole. No language model will be able to keep up with the pace of weird internet <mark>lingo and memes</mark>. I expect we'll lean into this. Using neologisms, jargon, euphemistic emoji, unusual phrases, ingroup dialects, and memes-of-the-moment will help signal your humanity.</p>
+<p>[...] offline-first future. We might see increased fetishisation of <mark>anti-screen culture</mark></p>
+</details>
+<p>She explores some possible ways to distinguish a bot from human when talking on the web filled with gen ai content.</p>
+<h2 id="interview-he-conquers-who-conquers-himself-adam-peaty">Interview: He conquers who conquers himself |  Adam Peaty</h2>
+<p>🔗 Men's Health Magazine July 2024 edition</p>
+<details class="quote">
+<summary>Adam Peaty to MH's interviewer Gordon Smart</summary>
+<p>'The answers can't be found in a nightclub, or some of the stuff that I'd been doing. It had to be found in true accountability, tough and deep conversations with people around me. It requires so much maturity to <mark>face yourself</mark> in the mirror <mark>and admit that your behaviour is not acceptable.'</mark></p>
+<p>'I was within a hair of giving it all up, he says. What was going back for? Pride? It took a while to find the answer. But wanted to teach [my son] George and any other children I have in future that <mark>you don't give up when things get hard</mark> or the world feels like it's against you. <mark>You give up when the time is right.</mark> I can take losses, but I couldn't take regret. Regret whould eat any man inside out.</p>
+<p>The pool can be a very lonely place, he says. 'You're doing 12,000m a day, plus gym, plus nutrition, plus everything else in your life. I was a father, a partner, a business manager - trying to manage my own future at the same time.'</p>
+<p>he repeats a mantra about being <mark>'better today than you were yesterday'</mark>. That's a Herculean task for a man swimming sub-58s. So how exactly does he go about chasing those marginal gains? 'I've had to <mark>find different ways to attack the same thing</mark>,' he explains. 'It's not about faster or better, it's actually more peaceful than that. [...] I used to be an emotional swimmer with a process-driven way of performing. Now, I'm <mark>process driven</mark>, <mark>but</mark> I can <mark>add emotion to the structure</mark>. 'It changes when you get older as an athlete. I think I've mastered <mark>the art of staying present</mark>. [...] Of course you're not going to be happy all the time, especially when your heart rate is at 200bpm and you're bleeding in the gym. But you can be at peace in those moments.'</p>
+<p>'My standards are so high because <mark>I take it to a place not many people have gone</mark>. That mentality has got me medals, but it has cost me,'</p>
+<p>'I've got 34 international gold medals, 50-plus overall. The rest, I've given away. I'm not fussed by the material. <mark>I can relive any race because I remember them</mark>. The memories are with me forever.' '"Medals are the coldest thing you wear because in pursuit of greatness, you'll destroy relationships." People will tell you there's a choice, but there is no choice; it's win or lose. I've got to be willing to go all in for a victory. Most of the time <mark>you have to be selfish to achieve the goals</mark> I'm striving for.'</p>
+<p>Of course, I love material possessions, but I don't let them define who I am. Just because you have a nice watch, it doesn't make you a nice person. 'I want to be remembered as someone who was relentless in the pursuit of human excellence. <mark>Legacy isn't something I can decide for myself. The world decides my legacy</mark>, it depends on how good I've been in the pool.'</p>
+<p>I've always relied on swimming to teach me valuable lessons, to humble me.</p>
+<p>I've got so much stamina and endurance in my body and that doesn't go away overnight. 'I don't like quiet, I like the chaos. I like having a busy brain. I've done this 1,000 times, <mark>I just need to flick a switch to engage that experience.</mark>'</p>
+</details>
+<h2 id="treat-your-to-read-pile-like-a-river-not-a-bucket">Treat your to-read pile like a river, not a bucket</h2>
+<p>🔗 <a href="https://www.oliverburkeman.com/river">blogpost by Oliver Burkeman</a></p>
+<details class="quote" open="open">
+<summary>Oliver Burkeman</summary>
+<p>In a world of effectively infinite information, the better you get at <mark>sifting the wheat from the chaff, the more you end up crushed beneath a never-ending avalanche of wheat</mark>.</p>
+<p>My challenge, information-wise, <mark>isn't about finding a needle in a haystack</mark>. It's that I'm confronted on a daily basis, in Carr's words, by <mark>"haystack-sized piles of needles.</mark> </p>
+<p>[...] "too many needles" [...] attempt to <mark>divide our finite time and attention among too many things that all have a legitimate claim on them</mark>.</p>
+<p>To return to information overload: this means treating your <mark>"to read" pile like a river (a stream that flows past you, and from which you pluck a few choice items, here and there) instead of a bucket (which demands that you empty it)</mark>. After all, you presumably don't feel overwhelmed by all the unread books in the British Library – and not because there aren't an overwhelming number of them, but because it never occurred to you that it might be your job to get through them all.</p>
+</details></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = "..",
+                shortcuts = {"search": 83};
+        </script>
+        <script src="../js/base.js"></script>
+        <script src="../search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
