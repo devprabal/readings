@@ -130,3 +130,16 @@ She explores some possible ways to distinguish a bot from human when talking on 
 
     I've got so much stamina and endurance in my body and that doesn't go away overnight. 'I don't like quiet, I like the chaos. I like having a busy brain. I've done this 1,000 times, ==I just need to flick a switch to engage that experience.=='
 
+## Treat your to-read pile like a river, not a bucket
+
+🔗 [blogpost by Oliver Burkeman](https://www.oliverburkeman.com/river)
+
+??? quote "Oliver Burkeman"
+
+    In a world of effectively infinite information, the better you get at ==sifting the wheat from the chaff, the more you end up crushed beneath a never-ending avalanche of wheat==.
+
+    My challenge, information-wise, ==isn't about finding a needle in a haystack==. It's that I'm confronted on a daily basis, in Carr's words, by =="haystack-sized piles of needles.== 
+    
+    [...] "too many needles" [...] attempt to ==divide our finite time and attention among too many things that all have a legitimate claim on them==.
+    
+    To return to information overload: this means treating your =="to read" pile like a river (a stream that flows past you, and from which you pluck a few choice items, here and there) instead of a bucket (which demands that you empty it)==. After all, you presumably don't feel overwhelmed by all the unread books in the British Library – and not because there aren't an overwhelming number of them, but because it never occurred to you that it might be your job to get through them all.
