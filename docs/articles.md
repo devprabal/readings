@@ -134,7 +134,7 @@ She explores some possible ways to distinguish a bot from human when talking on 
 
 🔗 [blogpost by Oliver Burkeman](https://www.oliverburkeman.com/river)
 
-??? quote "Oliver Burkeman"
+???+ quote "Oliver Burkeman"
 
     In a world of effectively infinite information, the better you get at ==sifting the wheat from the chaff, the more you end up crushed beneath a never-ending avalanche of wheat==.
 
