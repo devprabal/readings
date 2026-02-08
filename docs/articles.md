@@ -143,3 +143,19 @@ She explores some possible ways to distinguish a bot from human when talking on 
     [...] "too many needles" [...] attempt to ==divide our finite time and attention among too many things that all have a legitimate claim on them==.
     
     To return to information overload: this means treating your =="to read" pile like a river (a stream that flows past you, and from which you pluck a few choice items, here and there) instead of a bucket (which demands that you empty it)==. After all, you presumably don't feel overwhelmed by all the unread books in the British Library – and not because there aren't an overwhelming number of them, but because it never occurred to you that it might be your job to get through them all.
+
+## I miss thinking hard.
+
+🔗 [blogpost by  Ernesto](https://www.jernesto.com/articles/thinking_hard)
+
+???+ quote "Ernesto"
+
+    Two types of personalities -  
+    The Builder (The desire to create, ship, and be pragmatic).   
+    and  
+    The Thinker (The need for deep, prolonged mental struggle).  
+    
+    At the end of the day, I am a Builder. I like building things. The faster I build, the better. Even if I wanted to reject AI and go back to the days where the Thinker's needs were met by coding, the Builder in me would struggle with the inefficiency.
+    
+    My Builder side won’t let me just sit and think about unsolved problems, and my ==Thinker side is starving while I vibe-code==.
+    
